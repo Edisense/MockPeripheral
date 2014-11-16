@@ -1,0 +1,10 @@
+{
+    "name": "MockPeripheral",
+    "description": "Mock BLE peripheral script for testing our sensor API",
+    "repository": "https://github.com/Edisense/MockPeripheral",
+    "version": "0.0.1",
+    "dependencies": {
+        "smc": "~1.0.2",
+        "bleno": "~0.1.8" 
+    }    
+}
